@@ -29,6 +29,31 @@ Aplikasi awalnya bertampilan Main menu dengan 4 tombol:
 2. Pada **Game**, tekan host untuk menjadi server (Create room) atau masuk ke room dengan hostname temanmu (Join room)
 3. Game started!
 
+
+## Cara kerja
+
+### Multiplayer (local area network)
+- Pertama memilih instansi game yang mana yang menjadi host dan yang mana menjadi client. Server digunakan untuk mensinkronisasi posisi antar instansi tank dan mengontrol objek-objek selain tank sehingga muncul secara real-time pada host dan client.
+
+### Main Menu
+- Terdapat pilihan untuk bermain secara normal (battle royale), bermain secara time-money, settings yang digunakan untuk mengganti volume suara dengan menggunakan audio source
+
+### Cash
+- Terdapat objek cash yang muncul pada map secara random dan periodik. Jika tank berjalan melewati objek tersebut, cash yang dimiliki oleh tank akan bertambah
+
+### Senjata
+- Terdapat dua jenis peluru dari tank yang memiliki karakteristik dan penampilan yang berbeda
+
+### Karakter
+- Terdapat satu jenis karakter dari tank yang dapat dimunculkan dari tank.
+
+### Animasi Karakter
+- Karakter dapat bergerak dengan animasi
+
+### Aset tambahan
+- Aset tambahan yang digunakan dapat dilihat pada bagian justifikasi library yang digunakan.
+
+
 ## Screenshot
 
 Base menu
@@ -59,10 +84,10 @@ Multiplayer 5
 ![img](img/MultiplayerProof5.jpg)
 
 Multiplayer Interaction 1
-![img](img/MultiplayerInteraction1.jpg)
+![img](img/Interaction1.jpg)
 
 Multiplayer Interaction 2
-![img](img/MultiplayerInteraction2.jpg)
+![img](img/Interaction2.jpg)
 
 Time-Money Survival
 ![img](img/Racing.jpg)
