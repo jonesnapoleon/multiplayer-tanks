@@ -59,10 +59,10 @@ Multiplayer 5
 ![img](img/MultiplayerProof5.jpg)
 
 Multiplayer Interaction 1
-![img](img/MultiplayerInteraction1.jpg)
+![img](img/Interaction1.jpg)
 
 Multiplayer Interaction 2
-![img](img/MultiplayerInteraction2.jpg)
+![img](img/Interaction2.jpg)
 
 Time-Money Survival
 ![img](img/Racing.jpg)
