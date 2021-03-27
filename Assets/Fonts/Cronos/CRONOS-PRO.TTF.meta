@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d5d57579910734540a6a3f28da28f256
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cronos Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25849970da18dff40b6cfa6679f1c6a6, type: 3}
+  - {fileID: 12800000, guid: 60e0f1171163ba748a88e9daf20c1bec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
