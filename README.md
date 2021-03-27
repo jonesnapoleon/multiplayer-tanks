@@ -29,10 +29,6 @@ Aplikasi awalnya bertampilan Main menu dengan 4 tombol:
 2. Pada **Game**, tekan host untuk menjadi server (Create room) atau masuk ke room dengan hostname temanmu (Join room)
 3. Game started!
 
-## Cara kerja
-
-## Library yang digunakan
-
 ## Screenshot
 
 Base menu
@@ -73,6 +69,16 @@ Time-Money Survival
 
 Gold Coins
 ![img](img/GoldCoins.jpg)
+
+## Library yang digunakan
+
+- Mirror library, link="https://mirror-networking.com/" untuk menyediakan koneksi antara dua instansi atau lebih game sehingga dapat melakukan multiplayer.
+
+## Assets yang digunakan
+
+- Gold Coins, link="https://assetstore.unity.com/packages/3d/props/gold-coins-1810" untuk menyediakan model dan animasi dari object cash yang dapat dikumpulkan oleh tank.
+
+- Unity-Chan!, link="https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705#description" untuk menyediakan model dan animasi dari object karakter yang dapat dimunculkan oleh tank.
 
 ## Pembagian kerja anggota kelompok
 
