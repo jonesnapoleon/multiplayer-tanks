@@ -31,6 +31,8 @@ Aplikasi awalnya bertampilan Main menu dengan 4 tombol:
 
 ## Cara kerja
 
+## Library yang digunakan
+
 ## Screenshot
 
 Base menu
@@ -71,8 +73,6 @@ Time-Money Survival
 
 Gold Coins
 ![img](img/GoldCoins.jpg)
-
-## Library yang digunakan
 
 ## Pembagian kerja anggota kelompok
 
